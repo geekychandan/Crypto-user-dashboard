@@ -13,7 +13,7 @@ A beautiful Cryptocurrency portfolio with React JS, Material UI . Loging is impl
 ## Demo
 Find  the below deployed angelscoin website 
 
-https://angelscoin.netlify.app
+
 
 
 
@@ -22,7 +22,7 @@ https://angelscoin.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/geekychandan/Angelscoin-crypto-app.git
+  https://github.com/geekychandan/Crypto-user-dashboard.git
 ```
 
 Go to the project directory
